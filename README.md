@@ -56,19 +56,7 @@ The project uses healthcare-related datasets containing:
 * Low Risk
 * Risk Probability
 
-## How to Run
 
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Streamlit App
-
-```bash
-streamlit run app.py
-```
 
 ## Project Structure
 
