@@ -73,4 +73,4 @@ The project uses healthcare-related datasets containing:
 
 ## Author
 
-mohit Prajapati
+Mohit Prajapati
