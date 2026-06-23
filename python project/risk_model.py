@@ -2,7 +2,14 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load('risk_model.joblib')
+import os
+
+model_path = os.path.join(
+    os.path.dirname(__file__),
+    "risk_model.joblib"
+)
+
+model = joblib.load(model_path)
 
 st.title("Healthcare Risk Prediction")
 
