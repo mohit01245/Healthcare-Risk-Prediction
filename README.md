@@ -1,5 +1,10 @@
-# Healthcare-Risk-Prediction
 # Healthcare Risk Prediction
+
+🚀 Live Demo:
+https://healthcare-risk-prediction-tg82j9ylmtqc7qdcjgm5tq.streamlit.app/
+
+📂 GitHub Repository:
+https://github.com/mohit01245/Healthcare-Risk-Prediction
 
 ## Project Overview
 
